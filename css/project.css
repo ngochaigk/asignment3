@@ -170,7 +170,7 @@ header {
   }
 
   #primary .detail {
-    border: hiddenc;
+    border: hidden;
   }
 
   #goal .detail div:nth-child(2),
